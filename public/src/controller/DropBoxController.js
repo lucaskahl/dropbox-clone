@@ -25,6 +25,9 @@ class DropBoxController {
     connectFirebase() {
 
       var config = {
+
+            // aqui entra as informações do firebase
+
       };
 
       firebase.initializeApp(config);
